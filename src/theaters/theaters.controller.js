@@ -1,5 +1,5 @@
 const theatersService = require("./theaters.service");
-const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
+const asyncErrorBoundary = require("../errors/asyncErrorBoundry");
 
 async function list(req, res) {
   const { movieId } = req.params;

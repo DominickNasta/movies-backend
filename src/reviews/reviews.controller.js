@@ -1,5 +1,5 @@
 const reviewsService = require("./reviews.service");
-const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
+const asyncErrorBoundary = require("../errors/asyncErrorBoundry");
 
 async function list(req, res, next) {
   const { movieId } = req.params;

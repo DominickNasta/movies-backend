@@ -8,7 +8,7 @@ This backend service is an essential component of a comprehensive movie theater 
 - [ ] Node
 - [ ] Postgres
 - [ ] Express
-- [ ] REStful APIs
+- [ ] RESTful APIs
 
 ## Run Locally
 - [ ] Fork & Clone the repostory

@@ -4,6 +4,7 @@ Live site: https://movies-frontend-nsyz.onrender.com
 ## Description
 This backend service is an essential component of a comprehensive movie theater application. It provides functionalities to users enabling them to access information about movies currently playing in theaters. Users can view available movies, their showtimes, and the locations where they are being screened.
 
+
 ## Technologies & Tools
 - [ ] Node
 - [ ] Postgres
